@@ -1,0 +1,6 @@
+seaborn
+pandas
+nengo
+tensorflow
+numpy~=1.19.2
+nengo-dl
